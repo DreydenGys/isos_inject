@@ -1,0 +1,13 @@
+src/isos_inject
+isos_inject
+date
+*.o
+/test.c
+/test
+/.dir-locals.el
+inject
+/report/.auctex-auto/
+/report/report.aux
+/report/report.log
+/report/report.out
+/report/report.synctex.gz
